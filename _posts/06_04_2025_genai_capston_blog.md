@@ -18,8 +18,6 @@ Traditional customer support typically faces these challenges:
 
 I built a customer support agent that uses multiple generative AI capabilities to provide timely, accurate, and helpful responses to customer inquiries. This solution demonstrates the practical application of generative AI in a business context.
 
-![Customer Support Agent Architecture](https://mermaid.ink/img/pako:eNp1kU1PwzAMhv9KlBOIbYceuFQdEkJIcEBcEIdcbGvVkDRV4k6g0f47abuWD8HJ8fvYjh3fmEoJZpklLiqpG6ipMZ4dsdtbeL9FMGVfS5UoLEGyvRr2sEGrD7CJn4_WLRX2qjQORnpAEzD6FRLMHxTcbJ2xL4U1qTG0SoNtlXs-t4-u7eB0PiE4L77qTlAYeRV3NrQ7DaGLzbjdMgEZYSOqgJWwZUilIMY-n1T4OWKzKcQTUo5JI46wVzCKqb3iJwTyhdZYppjHaTxu-J-G8_G8aeLZGLVBZWxL2uGJ4hRKtDRZlBjDNAhKX2M3oeG6tX61v4JurQFpJ0J_e-dZJi3aVtv8Mj_n5-F1i-U_tG-d2OztBXRIR4qAhWzHaqcbvOJH1ipTsV1j-nQXZTIi8FIpCZssy9I_F8zEz11-ARCnppY?type=png)
-
 The agent can:
 
 1. Answer questions about products, company policies, and services
