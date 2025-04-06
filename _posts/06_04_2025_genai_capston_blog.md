@@ -213,7 +213,7 @@ While powerful, the current implementation has limitations:
 
 This project demonstrates how generative AI can transform customer support, combining RAG, embeddings, vector search, and function calling to create an intelligent agent that provides accurate, helpful responses 24/7.
 
-The complete code for this project is available in [my Kaggle notebook]([https://www.kaggle.com/notebooks/your-notebook-link-here](https://www.kaggle.com/code/prasadgautam94/genaicapstone-gautamprasad)), where you can see the implementation and try it yourself.
+The complete code for this project is available in [my Kaggle notebook](https://www.kaggle.com/code/prasadgautam94/genaicapstone-gautamprasad), where you can see the implementation and try it yourself.
 
 As generative AI continues to evolve, we can expect even more sophisticated customer support solutions that blend AI capabilities with human support, creating better experiences for both customers and businesses.
 
